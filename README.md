@@ -14,7 +14,7 @@
 <!-- Banner / GIF -->
 
 
-<h1 align="center">Hi 👋, I'm Abhikansh Mittal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Abhikansh Mittal</h1>
 <h3 align="center">A passionate Full Stack & DevOps Developer from India</h3>
 
 <p align="right">
@@ -81,5 +81,109 @@ Always curious, always learning, and always shipping something new 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhikansh3&label=Profile%20views&color=0e75b6&style=flat" alt="Abhikansh3" />
+</p> -->
+
+<div align="center">
+   <h1>Hi there, I'm <a href="#">Abhikansh Mittal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+
+<p align='center'>
+   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+<div align="center">
+   <h3>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      🙎‍♂️ Abhikansh Mittal | 💻 Full Stack & DevOps Developer | 🌍 India
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   </h3>
+</div>
+
+<p align="center">
+   <a href="#"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abhikansh?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@abhikansh"></a>
+   <br>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=Abhikansh3.Abhikansh3">
+      <img alt="abhikansh github" src="https://visitor-badge.glitch.me/badge?page_id=Abhikansh3.Abhikansh3">
+   </a>
+</p>
+
+<h5 align="center">
+   <i>⚡ “I turn ideas into code, and caffeine into commits.” ⚡</i>
+</h5>
+
+---
+
+<img align="right" height="270px" width="450px" alt="matrix GIF" src="https://i.gifer.com/7VE.gif" />
+
+### 👨‍💻 About Me  
+- 🧠 Full Stack & DevOps Developer passionate about building scalable systems  
+- 🌱 Currently diving deeper into **Cloud Architecture** and **Automation**  
+- 🧩 Love building projects with **TypeScript**, **React**, **Node.js**, and **MongoDB**  
+- 🚀 I enjoy blending creativity with clean architecture  
+- 📫 Reach me at **abhikansh33@gmail.com**  
+- 🎧 Fun Fact: I write my best code with lo-fi beats  
+
+---
+
+### ⚙️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb,docker,aws,git,linux,tailwind,postman,vscode&perline=8" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+> _Add your coolest builds here with links & short one-liners_
+
+- 🔗 [Recipe Management System]() – Full-stack food app with MySQL & authentication  
+- 🔗 [ShopMate AI Chatbot]() – E-commerce + customer support assistant  
+- 🔗 [DevOps Monitor]() – Real-time container & pipeline dashboard  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhikansh3&show_icons=true&theme=tokyonight" alt="abhikansh3 stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhikansh3&theme=tokyonight" alt="abhikansh3 streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhikansh3&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+### 💬 Fun Corner
+> 💭 “Code. Debug. Deploy. Repeat.”  
+> ☕ Currently powered by caffeine and curiosity  
+> 🧠 Motto: _“Make it work. Make it right. Make it fast.”_
+
+---
+
+<h2 align="center">🤝 Support</h2>
+<p align="center">
+   🎀 Contributions, 🔥 issues, and 🌟 feature requests are welcome!  
+</p>
+
+<p align="center">
+   💙 If you like my work, consider giving it a ⭐ and sharing it!  
+</p>
+
+<p align="center">
+   Made with ❤️ in India  
+</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom divider" />
+</p>
+
 
