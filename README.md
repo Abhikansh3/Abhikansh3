@@ -12,12 +12,14 @@
 
 
 <!-- Banner / GIF -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="20%" alt="matrix code rain">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Abhikansh Mittal</h1>
 <h3 align="center">A passionate Full Stack & DevOps Developer from India</h3>
+
+<p align="right">
+  <img src="https://i.gifer.com/7VE.gif" width="300" alt="matrix code rain">
+</p>
 
 ---
 
