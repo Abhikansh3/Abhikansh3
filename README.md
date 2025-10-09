@@ -18,7 +18,7 @@
 <h3 align="center">A passionate Full Stack & DevOps Developer from India</h3>
 
 <p align="right">
-  <img src="https://i.gifer.com/7VE.gif" width="300" alt="matrix code rain">
+  <img src="https://i.gifer.com/7VE.gif" alt="matrix code rain" width="300"/>
 </p>
 
 ---
@@ -82,5 +82,4 @@ Always curious, always learning, and always shipping something new 🚀
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhikansh3&label=Profile%20views&color=0e75b6&style=flat" alt="Abhikansh3" />
 </p>
-
 
