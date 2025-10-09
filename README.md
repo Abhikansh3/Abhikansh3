@@ -13,7 +13,7 @@
 
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="matrix code rain">
+  <img src="https://i.gifer.com/7VE.gif" width="20%" alt="matrix code rain">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhikansh Mittal</h1>
