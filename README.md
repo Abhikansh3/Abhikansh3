@@ -24,7 +24,7 @@
 ---
 
 ### 💫 About Me
-I’m a **Full Stack Developer** who loves to **build, break, and rebuild** things that make life easier.  
+I’m a full-stack developer who loves to build, break, and rebuild things that make life easier.  
 From crafting sleek frontends to managing scalable backend systems, I enjoy bringing ideas to life through code.  
 Always curious, always learning, and always shipping something new 🚀  
 
@@ -44,7 +44,7 @@ Always curious, always learning, and always shipping something new 🚀
 
 ### 🧠 Featured Projects
 > _Add your top projects here (name + short one-liner + link)_
-- 🔗 [Project 1 – Your coolest full stack build]()
+- 🔗 [Project 1 – Your coolest full-stack build]()
 - 🔗 [Project 2 – Something with automation or DevOps]()
 - 🔗 [Project 3 – Any open-source contribution or personal experiment]()
 
@@ -143,6 +143,9 @@ Always curious, always learning, and always shipping something new 🚀
 -->
 
 ### 📊 GitHub Stats
+![Abhikansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhikansh3&show_icons=true&theme=radical)
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhikansh3&show_icons=true&theme=tokyonight" alt="abhikansh3 stats" />
 </p>
@@ -154,6 +157,7 @@ Always curious, always learning, and always shipping something new 🚀
 </p>
 
 ---
+-->
 
 ### 💬 Fun Corner
 > 💭 “Code. Debug. Deploy. Repeat.”  
