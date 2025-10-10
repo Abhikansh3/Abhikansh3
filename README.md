@@ -113,7 +113,7 @@ Always curious, always learning, and always shipping something new 🚀
 
 ---
 
-<img align="right" height="270px" width="450px" alt="matrix GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVvMDlqbDR2eXlld3ZrbThnOGwxdHp3YXR4bTNzYXd6aGljaWF0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VekcnHOwOI5So/giphy.gif" />
+<img align="right" height="170px" width="350px" alt="matrix GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVvMDlqbDR2eXlld3ZrbThnOGwxdHp3YXR4bTNzYXd6aGljaWF0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VekcnHOwOI5So/giphy.gif" />
 
 ### 👨‍💻 About Me  
 - 🧠 Full Stack & DevOps Developer passionate about building scalable systems  
