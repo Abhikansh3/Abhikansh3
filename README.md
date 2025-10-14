@@ -83,7 +83,7 @@ Always curious, always learning, and always shipping something new 🚀
   <img src="https://komarev.com/ghpvc/?username=Abhikansh3&label=Profile%20views&color=0e75b6&style=flat" alt="Abhikansh3" />
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
    <h1>Hi there, I'm <a href="#">Abhikansh Mittal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
    
 </div>
@@ -99,13 +99,6 @@ Always curious, always learning, and always shipping something new 🚀
    </h3>
 </div>
 
-<!-- <p align="center">
-   <a href="#"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abhikansh?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@abhikansh"></a>
-   <br>
-   <a href="https://visitor-badge.glitch.me/badge?page_id=Abhikansh3.Abhikansh3">
-      <img alt="abhikansh github" src="https://visitor-badge.glitch.me/badge?page_id=Abhikansh3.Abhikansh3">
-   </a>
-</p> -->
 
 <h5 align="center">
    <i>⚡ “I turn ideas into code, and caffeine into commits.” ⚡</i>
@@ -131,7 +124,7 @@ Always curious, always learning, and always shipping something new 🚀
 </p>
 
 ---
-<!--
+
 ### 🚀 Featured Projects
 > _Add your coolest builds here with links & short one-liners_
 
@@ -140,24 +133,11 @@ Always curious, always learning, and always shipping something new 🚀
 - 🔗 [DevOps Monitor]() – Real-time container & pipeline dashboard  
 
 ---
--->
+
 
 ### 📊 GitHub Stats
 ![Abhikansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhikansh3&show_icons=true&theme=radical)
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhikansh3&show_icons=true&theme=tokyonight" alt="abhikansh3 stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhikansh3&theme=tokyonight" alt="abhikansh3 streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhikansh3&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
----
--->
 
 ### 💬 Fun Corner
 > 💭 “Code. Debug. Deploy. Repeat.”  
@@ -166,23 +146,62 @@ Always curious, always learning, and always shipping something new 🚀
 
 ---
 
-<!-- <h2 align="center">🤝 Support</h2>
-<p align="center">
-   🎀 Contributions, 🔥 issues, and 🌟 feature requests are welcome!  
-</p>
 
-<p align="center">
-   💙 If you like my work, consider giving it a ⭐ and sharing it!  
-</p>
-
-<p align="center">
-   Made with ❤️ in India  
-</p> -->
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom divider" />
 </p>
+ -->
+ <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Abhikansh Mittal</h1>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=abhikansh3">
+    <img src="https://komarev.com/ghpvc/?username=abhikansh3&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhikansh3's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhikansh3&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="abhikansh3's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=abhikansh3&theme=github_dark&hide_border=true&cache_seconds=86400" alt="abhikansh3's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhikansh3&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhikansh Mittal's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+### Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+
+### Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+
+### DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p>
+
+### Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikansh3&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
 
 
