@@ -185,7 +185,7 @@ Always curious, always learning, and always shipping something new 🚀
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhikansh3&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="abhikansh3's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=abhikansh3&theme=github_dark&hide_border=true&cache_seconds=86400" alt="abhikansh3's GitHub Streak" width="49%" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-tan.vercel.app?user=abhikansh3&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhikansh3&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhikansh Mittal's GitHub Trophies" />
