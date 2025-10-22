@@ -180,7 +180,7 @@ Always curious, always learning, and always shipping something new 🚀
 - 📫 Reach me at **abhikansh33@gmail.com**  
 - 🎧 Fun Fact: I write my best code with lo-fi beats  
 
----
+<!---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -190,7 +190,7 @@ Always curious, always learning, and always shipping something new 🚀
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhikansh3&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhikansh Mittal's GitHub Trophies" />
 </p>
-
+-->
 
 ## 🛠️ Languages & Tools
 
