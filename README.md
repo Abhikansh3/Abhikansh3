@@ -160,16 +160,11 @@ Always curious, always learning, and always shipping something new 🚀
 
 <div align="center">
    <h3>
-       💻 Full Stack & DevOps Developer | 🌍 India
+       💻 Full Stack & DevOps Engineer
    </h3>
 </div>
 
 
-<h5 align="center">
-   <i>⚡ “I turn ideas into code, and caffeine into commits.” ⚡</i>
-</h5>
-
----
 
 <!---
 
