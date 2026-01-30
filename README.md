@@ -171,15 +171,6 @@ Always curious, always learning, and always shipping something new 🚀
 
 ---
 
-
-### 👨‍💻 About Me  
-- 🧠 Full Stack & DevOps Developer passionate about building scalable systems  
-- 🌱 Currently diving deeper into **Cloud Architecture** and **Automation**  
-- 🧩 Love building projects with **TypeScript**, **React**, **Node.js**, and **MongoDB**  
-- 🚀 I enjoy blending creativity with clean architecture  
-- 📫 Reach me at **abhikansh33@gmail.com**  
-- 🎧 Fun Fact: I write my best code with lo-fi beats  
-
 <!---
 
 ## 📊 GitHub Stats & Trophies
@@ -219,18 +210,6 @@ Always curious, always learning, and always shipping something new 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikansh3&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-### ✨ Fun Corner
-> 💭 “Code. Debug. Repeat. And never forget to git push your dreams.”  
-> ☕ Currently powered by caffeine and curiosity.  
-> 💡 Motto: _“Build things that make life easier — one commit at a time.”_
-
----
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom divider" />
-</p>
 
 
 
